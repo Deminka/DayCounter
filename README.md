@@ -8,3 +8,8 @@
 - При невозможности возврата (более 14 дней) показывается окошко с количеством прошедших дней подсвеченные красным цветом
 - Также стоит общая валидация при прошествии более 500 дней показывается оошко с ошибкой что прошло более 500 дней
 3) На основании проврки пользователь принимает решение о возврате страховки.
+<img width="475" alt="Снимок экрана 2023-07-26 в 10 10 06" src="https://github.com/Deminka/DayCounter/assets/69207847/47dbc70d-5dd7-43a8-9f33-f4fe2f0ef08a">
+<img width="475" alt="Снимок экрана 2023-07-26 в 10 10 37" src="https://github.com/Deminka/DayCounter/assets/69207847/0f6ee7f5-e409-4d23-b486-e3de229bb1d5">
+<img width="475" alt="Снимок экрана 2023-07-26 в 10 09 56" src="https://github.com/Deminka/DayCounter/assets/69207847/6412c146-3e60-4fb5-af9a-6b0db9040e1b">
+<img width="475" alt="Снимок экрана 2023-07-26 в 10 10 49" src="https://github.com/Deminka/DayCounter/assets/69207847/6f0a81a1-27c9-4009-a8f1-712624ca04a2">
+<img width="475" alt="Снимок экрана 2023-07-26 в 10 10 58" src="https://github.com/Deminka/DayCounter/assets/69207847/be675b0a-1235-43ee-b66f-5c96c6b69161">
